@@ -10,7 +10,7 @@ benchmark-mindie 评测插件依赖MindIE提供推理能力，以及AISBench ben
 
 工具的使用需要拉取源码并安装：
 ```shell
-git clone https://gitee.com/aisbench/benchmark-mindie.git
+git clone https://github.com/AISBench/benchmark-mindie-old.git
 ```
 
 ### step 2：拉起MindIE容器
